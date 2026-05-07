@@ -1,4 +1,4 @@
-# Monolith vs Microservices: A Comprehensive Report
+# Monolith vs Microservices
 
 ---
 
