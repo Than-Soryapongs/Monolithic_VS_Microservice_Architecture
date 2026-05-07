@@ -13,6 +13,7 @@
 7. [Migration: Monolith to Microservices](#migration)
 8. [Summary Table](#summary-table)
 9. [Conclusion](#conclusion)
+10. [References](#10-references)
 
 ---
 
@@ -307,4 +308,57 @@ The most successful companies — Amazon, Netflix, Uber — did not start with m
 
 > **The best architecture is the simplest one that solves your current problems, with room to evolve.**
 
+---
+## 10. References
+ 
+### Academic Papers
+ 
+[1] Bogner, J., Fritzsch, J., Wagner, S., & Zimmermann, A. (2019). **From Monolith to Microservices: A Classification of Refactoring Approaches.** *arXiv preprint.*
+→ PDF: https://arxiv.org/pdf/1807.10059
+ 
+[2] Villamizar, M., et al. (2019). **A Comparative Review of Microservices and Monolithic Architectures.** *arXiv preprint.*
+→ PDF: https://arxiv.org/pdf/1905.07997
+ 
+[3] Blinowski, G., Ojdowska, A., & Przybyłek, A. (2022). **Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation.** *IEEE Access.*
+→ PDF: https://www.researchgate.net/publication/358721590_Monolithic_vs_Microservice_Architecture_A_Performance_and_Scalability_Evaluation
+ 
+[4] Taibi, D., & Lenarduzzi, V. (2020). **The Comparison of Microservice and Monolithic Architecture.** *IEEE.*
+→ PDF: https://www.researchgate.net/publication/341956559_The_Comparison_of_Microservice_and_Monolithic_Architecture
+ 
+[5] Razali, R., et al. (2022). **From Monolith to Microservices: A Semi-Automated Approach.** *International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 13, No. 10.*
+→ PDF: https://thesai.org/Downloads/Volume13No10/Paper_107_From_Monolith_to_Microservices_A_Semi_Automated_Approach.pdf
+ 
+[6] Haupt, F., et al. (2022). **Performance Comparison between a Monolithic and a Microservice-based Application.** *CEUR Workshop Proceedings, Vol. 4077.*
+→ PDF: https://ceur-ws.org/Vol-4077/paper2.pdf
+ 
+[7] Al-Debagy, O., & Martinek, P. (2022). **Microservices vs. Monolithic Architectures: The Differential Structure Between Two Architectures.** *IEEE.*
+→ PDF: https://www.researchgate.net/publication/364311836_MICROSERVICES_VS_MONOLITHIC_ARCHITECTURES_THE_DIFFERENTIAL_STRUCTURE_BETWEEN_TWO_ARCHITECTURES
+ 
+### Books & Official Documentation
+ 
+[8] Zefrog, B., et al. (2018). **Evolve the Monolith to Microservices with Java and Node.** *IBM Redbooks, SG24-8358-00.*
+→ PDF: https://www.redbooks.ibm.com/redbooks/pdfs/sg248358.pdf
+ 
+[9] Newman, S. (2021). **Building Microservices: Designing Fine-Grained Systems** (2nd ed.). *O'Reilly Media.*
+→ https://www.oreilly.com/library/view/building-microservices-2nd/9781492047834/
+ 
+[10] Richardson, C. (2018). **Microservices Patterns: With Examples in Java.** *Manning Publications.*
+→ https://microservices.io/book
+ 
+### Online Resources
+ 
+[11] Fowler, M. (2015). **MonolithFirst.** *martinfowler.com.*
+→ https://martinfowler.com/bliki/MonolithFirst.html
+ 
+[12] Fowler, M., & Lewis, J. (2014). **Microservices.** *martinfowler.com.*
+→ https://martinfowler.com/articles/microservices.html
+ 
+[13] Richardson, C. **Microservices Architecture Pattern.** *microservices.io.*
+→ https://microservices.io/patterns/microservices.html
+ 
+[14] Shopify Engineering. (2020). **Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity.** *Shopify Engineering Blog.*
+→ https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
+ 
+[15] Netflix Tech Blog. **Completing the Netflix Cloud Migration.** *Netflix Technology Blog.*
+→ https://netflixtechblog.com/completing-the-netflix-cloud-migration-783e9013b7b9
 ---
